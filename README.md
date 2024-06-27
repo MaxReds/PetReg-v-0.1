@@ -35,8 +35,7 @@ Clone the repository:
 
 
 
-git clone 
-cd <repository-name>
+git clone https://github.com/MaxReds/PetReg-v-0.1.git
 
 Install dependencies:
 
